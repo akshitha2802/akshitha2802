@@ -242,6 +242,4 @@ Open to internships, collaborative projects, and placement opportunities.
 
 ![Akshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitha2802&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitha2802&layout=compact) 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitha2802)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitha2802&layout=compact)
