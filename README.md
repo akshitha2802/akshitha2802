@@ -237,3 +237,11 @@ Open to internships, collaborative projects, and placement opportunities.
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## GitHub Statistics
+
+![Akshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitha2802&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitha2802&layout=compact) 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitha2802)
