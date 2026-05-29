@@ -25,32 +25,6 @@ Learning • Building • Growing
 - GitHub
 - Project Development
 
-## Tech Stack
-
-### Programming Languages
-- C
-- Python
-- Java
-
-### Web Development
-- HTML
-- CSS
-- JavaScript
-
-### Databases
-- MySQL
-- SQLite
-- Firebase
-
-### Tools & Platforms
-- GitHub
-- VS Code
-- Android Studio
-
-### Data & Analytics
-- SQL
-- Excel
-- Power BI(basics)
 
 ## Projects
 
