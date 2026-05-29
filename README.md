@@ -238,8 +238,7 @@ Open to internships, collaborative projects, and placement opportunities.
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## GitHub Statistics
+## Career Objective
 
-![Akshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitha2802&show_icons=true)
+Computer Science Engineering student with interests in Business Analysis, Data Analytics, Software Development, and AI-powered solutions. Passionate about building practical applications, collaborating in teams, and continuously improving technical and problem-solving skills. Currently seeking opportunities to learn, contribute, and grow through internships and placement roles.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitha2802&layout=compact)
